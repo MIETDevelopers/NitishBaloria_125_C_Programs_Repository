@@ -14,7 +14,7 @@ void main(){ // main function body.
     printf("Enter the element to be searched: "); // doubts onwards
     scanf("%d", &keynum);
     for (i = 0; i < num ; i++){
-        if (keynum == array[i] )
+        if (keynum == array[i])
         {
             found = 1;
             break;
