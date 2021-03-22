@@ -3,8 +3,7 @@
 //Purpose: Check if a number is prime or not using while loop
 #include <stdio.h>//Preprocessor directive to include input output function header file
 //start of the main body function
-int main()
-{
+int main(){
    int n, count = 0;//Declaring variables of integer data type
  
     printf("Enter the Number.\n");//printf function calling to print numbers

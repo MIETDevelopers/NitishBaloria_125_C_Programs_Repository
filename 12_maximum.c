@@ -11,7 +11,7 @@ int main()
   printf("How many numbers: ");//printf function calling to print numbers
   scanf("%d",&n); //scanf function calling to read  the user input
   
-  for(i=0; i<n; i++)//start of for loap
+  for(i=0; i<n; i++)// using for loop.
   {
     //It will scan the numbers entered by user upto the limit setted by user.
     printf("\nEnter number %d: ",i+1);//printf function calling to print number
