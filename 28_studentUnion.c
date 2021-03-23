@@ -22,8 +22,8 @@ int main()
        record1.percentage = 86.50;
  
        printf("Union record1 values example\n");
-       printf(" Name       : %c \n", record1.name);
-       printf(" Subject    : %c \n", record1.subject);
+       printf(" Name       : %s \n", record1.name);
+       printf(" Subject    : %s \n", record1.subject);
        printf(" Percentage : %f \n\n", record1.percentage);
  
     // assigning values to record2 union variable
