@@ -1,4 +1,4 @@
-// A C Program demonstrating use of calloc() function.          © Ishav Verma 20/March/2021
+// A C Program demonstrating use of calloc() function.          © NITISH BALORIA 20/March/2021
 #include <stdio.h> //Using standard input output header file.
 #include <stdlib.h> //Using standard library header file.
     int main() {
