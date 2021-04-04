@@ -1,6 +1,6 @@
-// Author: Nitish Baloria
+:// Author: Nitish Baloria
 // Creation Date: 28/3/21
-// Purpose Of The Program:Function implementation which takes structure as input
+// Purpose Of The Programunction implementation which takes structure as input
 #include<stdio.h>  //Pre-process directive to include standard input and output functions header file
 
 /*
