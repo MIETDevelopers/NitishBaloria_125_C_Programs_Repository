@@ -1,4 +1,4 @@
-//A basic C Program to print Hello World.				© Ishav Verma 18/March/2021
+//A basic C Program to print Hello World.				© NITISH BALORIA 15/March/2021
 //Start
 #include<stdio.h> //Including standard input ouput header files from library.
 int main(){ 
